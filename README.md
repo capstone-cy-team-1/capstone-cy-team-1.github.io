@@ -132,5 +132,7 @@ The path: <path>, Version: Linux kali 5.10.0-kali3-amd64 #1 SMP Debian 5.10.13-1
 
 or we can use [ngrok](https://ngrok.com/) to receive call-backs on our system which can be on our own computers.
 
+I have penned down a very simple overview of the attack here: (please ignore my shabby handwriting)
+[attack-explained](./public/docs/attack-explained.pdf)
 
 
