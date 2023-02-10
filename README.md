@@ -19,6 +19,12 @@ This project is intended to apply the MITRE ATT&CK framework and tools to map a 
 As a result of the project, with the Adversary Emulation Plan is needed to elaborate Threat Report of the incident analized (including a STIX2.1 JSON representation).  
 
 
+**Meeting Notes, Feb4**  
+- [ ] Dev and Attacker Env in separate virtual network (all machines are to be assumed Linux machines, unless mentioned explicitly)  
+- [ ] Domain name (.me)  
+- [ ] Terraform env setup  
+- [ ] Caldera tool information
+
 ## Dev Env
 
 Resource Link: https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610
