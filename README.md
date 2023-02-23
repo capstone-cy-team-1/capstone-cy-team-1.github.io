@@ -18,7 +18,11 @@ Idea: Build an infrastructure for an organization that heavily relies on a JavaS
 
 ## Status
 
-Sprint-1 [3rd Feb -15th Feb]:  Ongoing
+![](/public/chart.png)
+
+Sprint-1 [3rd Feb - 15th Feb]:  Completed 
+
+Sprint-2 [13th Feb - 20 March]:  Ongoing 
 
 
 ## Overview
