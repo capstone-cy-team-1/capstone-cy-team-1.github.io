@@ -22,8 +22,9 @@ Idea: Build an infrastructure for an organization that heavily relies on a JavaS
 
 Sprint-1 [3rd Feb - 15th Feb]:  Completed 
 
-Sprint-2 [13th Feb - 20 March]:  Ongoing 
+Sprint-2 [13th Feb - 20th March]:  Completed 
 
+Sprint-3 [20th March - 30th March]:  Ongoing 
 
 ## Overview
 
@@ -75,3 +76,20 @@ pm2: 5.2.2
 ```
 
 ## Adversary’s Network
+
+Machine requirements:
+
+```bash
+# 1 Linux Machine
+RAM: 4GB or more
+Storage: Min
+```
+
+The machine requires 
+
+```
+pip: v23.0.1
+pyOpenSSL: v23.0.0
+
+# The versions can change depending on the time of implementation
+```
