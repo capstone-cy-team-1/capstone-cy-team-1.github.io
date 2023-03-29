@@ -18,8 +18,13 @@ Idea: Build an infrastructure for an organization that heavily relies on a JavaS
 
 ## Status
 
-Sprint-1 [3rd Feb -15th Feb]:  Ongoing
+![](/public/chart.png)
 
+Sprint-1 [3rd Feb - 15th Feb]:  Completed 
+
+Sprint-2 [13th Feb - 20th March]:  Completed 
+
+Sprint-3 [20th March - 30th March]:  Ongoing 
 
 ## Overview
 
@@ -71,10 +76,20 @@ pm2: 5.2.2
 ```
 
 ## Adversary’s Network
+
+Machine requirements:
+
+```bash
+# 1 Linux Machine
+RAM: 4GB or more
+Storage: Min
 ```
-Custom Domain: 0xparthhackerone.me ( Hosting: Namecheap.me)
-Public Facing DNS Server: 34.121.172.3
-Service for capturing DNS log: Bind9
+
+The machine requires 
+
+```
+pip: v23.0.1
+pyOpenSSL: v23.0.0
 
 # The versions can change depending on the time of implementation
 ```
