@@ -93,3 +93,6 @@ pyOpenSSL: v23.0.0
 
 # The versions can change depending on the time of implementation
 ```
+Custom Domain: 0xparthhackerone.me ( Hosting: Namecheap.me)
+Public Facing DNS Server: 34.121.172.3
+Service for capturing DNS log: Bind9
