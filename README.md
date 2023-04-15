@@ -34,6 +34,10 @@ The implementation is divided into two halves.
 
 ![](/public/file_1.drawio.png)
 
+**Network Overview Diagram**
+
+![](/public/network_overview.png)
+
 **Organization Network**
 
 This segment is a virtual network deployed in GCP with three servers (Linux) with NodeJS and NPM installed. The servers, namely the Production, Deployment/Staging, and Repository, are the only components in the organization environment.
