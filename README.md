@@ -95,6 +95,5 @@ pyOpenSSL: v23.0.0
 ```
 ```
 Custom Domain: 0xparthhackerone.me ( Hosting: Namecheap.me)
-Public Facing DNS Server: 34.121.172.3
 Service for capturing DNS log: Bind9
 ```
