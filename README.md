@@ -18,13 +18,13 @@ Idea: Build an infrastructure for an organization that heavily relies on a JavaS
 
 ## Status
 
-![](/public/chart.png)
-
 Sprint-1 [3rd Feb - 15th Feb]:  Completed 
 
 Sprint-2 [13th Feb - 20th March]:  Completed 
 
-Sprint-3 [20th March - 30th March]:  Ongoing 
+Sprint-3 [20th March - 30th March]:  Completed
+
+Sprint-4 [30th March - 3rd April]: Completed
 
 ## Overview
 
@@ -97,3 +97,8 @@ pyOpenSSL: v23.0.0
 
 # The versions can change depending on the time of implementation
 ```
+
+## Conclusion
+Final report includes the executive summary of the attack and a presentation of the attack performed. The attack will also include mapping the whole attack to MITRE’s framework.
+
+
