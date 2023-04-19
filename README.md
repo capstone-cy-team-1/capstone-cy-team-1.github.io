@@ -13,6 +13,8 @@ You can find the
 
 > As a team we understood, the flaws within our system, as it had to be made this way for the project.  However, for the purposes of the assignment we were tasked with performing a security analysis of our own systems. [Find the detialed report here](https://github.com/capstone-cy-team-1/capstone-cy-team-1.github.io/blob/main/public/Submitted-docs/Security%20Analysis%20.pdf)
 
+> You can also find a [threat model report for the project here](https://github.com/capstone-cy-team-1/capstone-cy-team-1.github.io/blob/main/public/Submitted-docs/Threat%20Modeling%20Report.pdf)
+
 ## Proposal 
 
 Vulnerability: Supply Chain Attack(s)
