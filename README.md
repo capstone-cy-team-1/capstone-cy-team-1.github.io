@@ -2,7 +2,7 @@
 
 ## Project 
 
-This project is intended to apply the MITRE ATT&CK framework and tools to map a cyber incident and then use the Caldera tool to complete an emulation plan. Included into team's tasks is the deployment in the Cloud of a mock-up scenario that represents the system compromised in the cyberincident studied. 
+This project is intended to develop an application and apply tools to map a cyber incident and then use the Caldera tool to complete an emulation plan. Included into team's tasks is the deployment in the Cloud of a mock-up scenario that represents the system compromised in the cyberincident studied. 
 
 As a result of the project, with the Adversary Emulation Plan is needed to elaborate Threat Report of the incident analized (including a STIX2.1 JSON representation). 
 
