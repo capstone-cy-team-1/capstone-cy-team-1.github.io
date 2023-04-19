@@ -84,7 +84,15 @@ pm2: 5.2.2
 Machine requirements:
 
 ```bash
-# 1 Linux Machine
+# Web Server
+RAM: 4GB or more
+Storage: Min
+
+# Dev Server
+RAM: 4GB or more
+Storage: Min
+
+# Verdaccio Server
 RAM: 4GB or more
 Storage: Min
 ```
@@ -92,10 +100,16 @@ Storage: Min
 The machine requires 
 
 ```
+# Caldera Server
 pip: v23.0.1
 pyOpenSSL: v23.0.0
 
 # The versions can change depending on the time of implementation
+
+# DNS server
+Custom Domain: 0xparthhackerone.me ( Hosting: Namecheap.me)
+Service for capturing DNS log: Bind9
+
 ```
 
 ## Conclusion
