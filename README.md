@@ -11,6 +11,8 @@ You can find the
 2. Organization housing all the repositories: [Capstone-cy-team-1](https://github.com/capstone-cy-team-1/)
 3. Scrum Board here: [Team-1 Scrum Board](https://github.com/orgs/capstone-cy-team-1/projects/1)
 
+> As a team we understood, the flaws within our system, as it had to be made this way for the project.  However, for the purposes of the assignment we were tasked with performing a security analysis of our own systems. [Find the detialed report here]()
+
 ## Proposal 
 
 Vulnerability: Supply Chain Attack(s)
