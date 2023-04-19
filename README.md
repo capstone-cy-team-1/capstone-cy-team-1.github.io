@@ -14,7 +14,7 @@ You can find the
 ## Proposal 
 
 Vulnerability: Supply Chain Attack(s)
-Idea: Build an infrastructure for an organization that heavily relies on a JavaScript environment. This environment will be utilized for implementing the Dependency Confusion attack using custom scripts and the Caldera tool.
+Idea: Build an infrastructure for an organization that heavily relies on a JavaScript environment. This environment will be utilized for implementing the Dependency Confusion attack using custom scripts and the Caldera tool. [You can read the doc here](https://github.com/capstone-cy-team-1/capstone-cy-team-1.github.io/blob/main/public/Submitted-docs/Project%20Proposal.pdf)
 
 ## Status
 
