@@ -119,4 +119,4 @@ Service for capturing DNS log: Bind9
 ## Conclusion
 Final report includes the executive summary of the attack and a presentation of the attack performed. The attack will also include mapping the whole attack to MITRE’s framework.
 
-
+END
